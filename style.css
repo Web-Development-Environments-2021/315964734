@@ -1,0 +1,54 @@
+html {
+	background-color: teal;
+}
+
+#menu
+{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color:rgb(65, 63, 63);
+}
+
+.menu a{
+	float: left;
+  color:yellowgreen;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family:monospace;
+}
+
+.menu a:hover{
+	background-color: #ddd;
+	color: rgb(115, 33, 209);
+}
+
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+h1 {
+	background-color: yellowgreen;
+	font-family: monospace;
+}
+
+h3{
+	font-family: monospace;	
+}
+
+h4{
+	font-family: monospace;	
+}
+
+label{
+	font-family: monospace;
+	font-size: 17px;
+}
+
+textarea{
+	width: 300px;
+	height: 150px;
+}
